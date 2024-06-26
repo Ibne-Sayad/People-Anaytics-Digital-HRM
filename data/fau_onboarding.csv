@@ -1,0 +1,31 @@
+id,department,published_topics,liked_articles,engagement
+emp_001,marketing,marketing strategies,investment,low
+emp_002,hr,equal employment opportunity,hr marketing,medium
+emp_003,operations,safe deposits,lendings of funds,high
+emp_004,finance,none,investment,low
+emp_005,hr,none,hr recruitment,low
+emp_006,marketing,marketing strategies, brand strategy and campaign, medium
+emp_007,finance,saving and investment,investment and funds,medium
+emp_008,operations,none,online banking and deposits,medium
+emp_009,operations,none,credit and debit cards,low
+emp_010,finance,online banking,investment,medium
+emp_011,hr,none,none,low
+emp_012,operations,none,none,low
+emp_013,hr,employment and hr marketing,hr marketing and hr recruitment,high
+emp_014,finance,deposits and savings,funds and deposits,medium
+emp_015,hr,marketing strategies and job analysis,job analysis,medium
+emp_016,marketing,none,brand strategy and campaign,medium
+emp_017,marketing,brand strategy and campaign,hr marketing and hr recruitment,high
+emp_018,finance,none,funds and deposits,low
+emp_019,hr,brand strategy,hr marketing,medium
+emp_020,finance,none,brand strategy and campaign,low
+emp_021,operations,deposits and funds and cheques,credit and debit cards,high
+emp_022,finance,online banking,investment and funds,high
+emp_023,hr,none,hr marketing,low
+emp_024,marketing,marketing strategies and job analysis,hr marketing and hr recruitment,high
+emp_025,finance,saving and investment and cheques,investment and funds,medium
+emp_026,hr,marketing strategies and job analysis,job analysis,medium
+emp_027,marketing,none,brand strategy ,low
+emp_028,marketing,brand strategy and campaign,hr marketing and hr recruitment,high
+emp_029,hr,brand strategy,hr marketing,medium
+emp_030,marketing,none,funds and hr marketing,medium
