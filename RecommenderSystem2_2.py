@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 
-employees = pd.read_csv(r"D:\UNIVERSITY\PEOPLE ANALYTICS\PA_Code\data\fau_onboarding.csv")
+employees = pd.read_csv(r"data\fau_onboarding.csv")
 print(employees.columns)
 
 def create_soup(x):

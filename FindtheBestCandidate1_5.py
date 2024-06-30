@@ -10,9 +10,9 @@ import matplotlib.pyplot as plt
 nlp = spacy.load("en_core_web_sm")
 
 # Define the path to resumes and skills CSV file
-resume_path = r'D:\UNIVERSITY\PEOPLE ANALYTICS\PA_Code\Resume'
+resume_path = r'Resume' 
 resume_files = [os.path.join(resume_path, f) for f in os.listdir(resume_path) if os.path.isfile(os.path.join(resume_path, f))]
-skills_csv_file = r'D:\UNIVERSITY\PEOPLE ANALYTICS\PA_Code\data\skills.csv'
+skills_csv_file = r'data\skills.csv'
 
 # Function to extract text from PDFs
 def extract_text_from_pdf(file_path):
